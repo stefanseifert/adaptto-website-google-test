@@ -28,6 +28,10 @@
   */
 }
 
+body {
+  background-color: #000 !important;
+}
+
 @font-face {
   font-family: ArialBoldFallback;
   src: local(arial bold);
