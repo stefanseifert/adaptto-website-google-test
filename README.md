@@ -1,13 +1,13 @@
 # adaptTo() Website
 
-[![Build](https://github.com/adaptto/adaptto-website/workflows/Build/badge.svg?branch=main)](https://github.com/adaptto/adaptto-website/actions?query=workflow%3ABuild+branch%3Amain)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=adaptto_adaptto-website&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=adaptto_adaptto-website) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=adaptto_adaptto-website&metric=coverage)](https://sonarcloud.io/summary/new_code?id=adaptto_adaptto-website)
+[![Build](https://github.com/stefanseifert/adaptto-website-sharepoint-test/workflows/Build/badge.svg?branch=main)](https://github.com/stefanseifert/adaptto-website-sharepoint-test/actions?query=workflow%3ABuild+branch%3Amain)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=adaptto_adaptto-website-sharepoint-test&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=adaptto_adaptto-website-sharepoint-test) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=adaptto_adaptto-website-sharepoint-test&metric=coverage)](https://sonarcloud.io/summary/new_code?id=adaptto_adaptto-website-sharepoint-test)
 
 adaptTo() Website based on AEM Franklin.
 
 ## Environments
-- Preview: https://main--adaptto-website--adaptto.hlx.page/
-- Live: https://adapt.to/ (https://main--adaptto-website--adaptto.hlx.live/)
+- Preview: https://main--adaptto-website-sharepoint-test--stefanseifert.hlx.page/
+- Live: https://main--adaptto-website-sharepoint-test--stefanseifert.hlx.live/
 
 ## Installation
 
