@@ -1,7 +1,6 @@
 # adaptTo() Website
 
 [![Build](https://github.com/stefanseifert/adaptto-website-sharepoint-test/workflows/Build/badge.svg?branch=main)](https://github.com/stefanseifert/adaptto-website-sharepoint-test/actions?query=workflow%3ABuild+branch%3Amain)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=adaptto_adaptto-website-sharepoint-test&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=adaptto_adaptto-website-sharepoint-test) [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=adaptto_adaptto-website-sharepoint-test&metric=coverage)](https://sonarcloud.io/summary/new_code?id=adaptto_adaptto-website-sharepoint-test)
 
 adaptTo() Website based on AEM Franklin.
 
