@@ -1,12 +1,12 @@
 # adaptTo() Website
 
-[![Build](https://github.com/stefanseifert/adaptto-website-sharepoint-test/workflows/Build/badge.svg?branch=main)](https://github.com/stefanseifert/adaptto-website-sharepoint-test/actions?query=workflow%3ABuild+branch%3Amain)
+[![Build](https://github.com/stefanseifert/adaptto-website-google-test/workflows/Build/badge.svg?branch=main)](https://github.com/stefanseifert/adaptto-website-google-test/actions?query=workflow%3ABuild+branch%3Amain)
 
 adaptTo() Website based on AEM Franklin.
 
 ## Environments
-- Preview: https://main--adaptto-website-sharepoint-test--stefanseifert.hlx.page/
-- Live: https://main--adaptto-website-sharepoint-test--stefanseifert.hlx.live/
+- Preview: https://main--adaptto-website-google-test--stefanseifert.hlx.page/
+- Live: https://main--adaptto-website-google-test--stefanseifert.hlx.live/
 
 ## Installation
 
